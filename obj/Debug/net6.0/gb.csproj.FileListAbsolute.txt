@@ -1,0 +1,15 @@
+C:\Users\Tima\Desktop\gb\obj\Debug\net6.0\gb.csproj.AssemblyReference.cache
+C:\Users\Tima\Desktop\gb\obj\Debug\net6.0\gb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tima\Desktop\gb\obj\Debug\net6.0\gb.AssemblyInfoInputs.cache
+C:\Users\Tima\Desktop\gb\obj\Debug\net6.0\gb.AssemblyInfo.cs
+C:\Users\Tima\Desktop\gb\obj\Debug\net6.0\gb.csproj.CoreCompileInputs.cache
+C:\Users\Tima\Desktop\gb\bin\Debug\net6.0\gb.exe
+C:\Users\Tima\Desktop\gb\bin\Debug\net6.0\gb.deps.json
+C:\Users\Tima\Desktop\gb\bin\Debug\net6.0\gb.runtimeconfig.json
+C:\Users\Tima\Desktop\gb\bin\Debug\net6.0\gb.dll
+C:\Users\Tima\Desktop\gb\bin\Debug\net6.0\gb.pdb
+C:\Users\Tima\Desktop\gb\obj\Debug\net6.0\gb.dll
+C:\Users\Tima\Desktop\gb\obj\Debug\net6.0\refint\gb.dll
+C:\Users\Tima\Desktop\gb\obj\Debug\net6.0\gb.pdb
+C:\Users\Tima\Desktop\gb\obj\Debug\net6.0\gb.genruntimeconfig.cache
+C:\Users\Tima\Desktop\gb\obj\Debug\net6.0\ref\gb.dll
