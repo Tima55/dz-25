@@ -1,13 +1,12 @@
-﻿//  Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
-Console.Write(" Введите число ");
-int number  = Convert.ToInt32(Console.ReadLine());
-if(number < 1000)
+﻿//  Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B. 
+Console.Write(" Введите число А ");
+
+int A  = Convert.ToInt32(Console.ReadLine());
+Console.Write(" Введите  число В ");
+int B  = Convert.ToInt32(Console.ReadLine());
+int C = 1;
+for (int i = 0; i < B; i++)
 {
-    if(number > 99)
-    {
-     int lastDigit = number / 10;
- int answer = lastDigit % 10;
-Console.WriteLine("Вторая  цифра " + answer);
-    
-    }
+    C *= A;
 }
+    Console.WriteLine(C);
